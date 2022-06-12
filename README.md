@@ -1,14 +1,12 @@
 <h2 align="center">
   Portfolio Website live demo
-  <a href="https://sunilyadavportfolio.netlify.app/" target="_blank">Ridwan</a>
+  <a href="https://ridwanwong.github.io/portfolio" target="_blank">Ridwan</a>
 </h2>
-<div align="center">
-  <img width="960" alt="image" src="https://user-images.githubusercontent.com/20383021/148535829-e697023d-cf9b-4873-b04c-ab33c465d085.png">
-</div>
+
 
 ## Built With
 
-My personal portfolio   <a href="https://sunilyadavportfolio.netlify.app/" target="_blank">https://sunilyadavportfolio.netlify.app/</a> and my personal blog  <a href="http://www.logicstime.com/" target="_blank">http://www.logicstime.com/</a> <br/>
+My personal portfolio   <a href="https://ridwanwong.github.io/portfolio" target="_blank">https://ridwanwong.github.io/portfolio/</a>
 
 This project was built using these technologies.
 
@@ -37,11 +35,3 @@ Clone down this repository. You will need `node.js` and `git` installed globally
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.
-  "devDependencies": {
-    "eslint": "^7.11.0",
-    "eslint-plugin-react": "^7.30.0"
-  }
-  // "devDependencies": {
-  //   "eslint-plugin-react": "^7.30.0"
-  // }
-// "eslint": "^8.17.0",  
