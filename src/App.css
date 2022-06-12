@@ -1,0 +1,165 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Education section start */
+
+.timeline a {
+  color: var(--primary-color);
+  cursor: default;
+}
+
+ul.timeline {
+  list-style-type: none;
+  position: relative;
+}
+
+ul.timeline:before {
+  content: ' ';
+  background: #d4d9df;
+  display: inline-block;
+  position: absolute;
+  left: 29px;
+  width: 2px;
+  height: 100%;
+  z-index: 400;
+}
+
+ul.timeline>li {
+  margin: 20px 0;
+  padding-left: 3.2rem;
+}
+
+ul.timeline>li:before {
+  content: ' ';
+  background: var(--primary-color);
+  display: inline-block;
+  position: absolute;
+  border-radius: 50%;
+  border: 3px solid transparent;
+  left: 20px;
+  width: 20px;
+  height: 20px;
+  z-index: 400;
+}
+
+
+/* Education section end */
+
+/* Projects Start */
+
+#filter {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+#filter button {
+  display: inline-block;
+    padding: 8px 5px;
+    background-color: #313131;
+    color: #999;
+    border-width: 1px 1px 2px 1px;
+    border-style: solid;
+    border-color: #222;
+    border-radius: 3px;
+    text-transform: uppercase;
+    font-family: MontSerrat,Tahoma,Arial,sans-serif;
+    font-weight: 700;
+    font-size: .75em;
+    line-height: 1em;
+    box-shadow: 1px 1px 0 rgba(0,0,0,.25);
+    margin: 3px;
+    margin-bottom: 0.8rem;
+    opacity: 1;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+}
+
+#filter button:hover {
+  border-color: var(--primary-color);
+  color: var(--bg-color);
+  background-color: var(--primary-color);
+}
+
+#my-projects {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.card-project {
+  padding: 1rem;
+}
+
+.card-project p {
+  color: var(--bg-color);
+}
+
+.project-body {
+  background: hsl(0, 0%, 97%);
+}
+
+.tags {
+  padding: 0;
+  list-style: none;
+}
+
+.tags li {
+  display: inline-block;
+  font-size: 14px;
+  line-height: 20px;
+  color: var(--bg-color);
+  background-color: #fff;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, .14);
+  padding: 5px 10px;
+  margin: 5px;
+  border-radius: 3px;
+}
+
+#title{
+  color: #fff;
+}
+#title:hover{
+  color: #1e1e1e;
+}
+
+/* Projects End */
