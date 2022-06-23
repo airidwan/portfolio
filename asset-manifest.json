@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.230b3446.chunk.css",
-    "main.js": "/portfolio/static/js/main.653ca7d5.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.653ca7d5.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.9f68b66b.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.9f68b66b.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.4c9b6c87.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.4c9b6c87.js.map",
     "static/css/2.80e5e0f4.chunk.css": "/portfolio/static/css/2.80e5e0f4.chunk.css",
@@ -12,11 +12,11 @@
     "static/css/2.80e5e0f4.chunk.css.map": "/portfolio/static/css/2.80e5e0f4.chunk.css.map",
     "static/css/main.230b3446.chunk.css.map": "/portfolio/static/css/main.230b3446.chunk.css.map",
     "static/js/2.cbf7aa1d.chunk.js.LICENSE.txt": "/portfolio/static/js/2.cbf7aa1d.chunk.js.LICENSE.txt",
-    "static/media/Edp-Reports.a2cc6a1f.png": "/portfolio/static/media/Edp-Reports.a2cc6a1f.png",
+    "static/media/Edp-Reports.dfebdf71.png": "/portfolio/static/media/Edp-Reports.dfebdf71.png",
     "static/media/OtoIM.bfd9c372.JPG": "/portfolio/static/media/OtoIM.bfd9c372.JPG",
-    "static/media/OtoImport.4daa3ae2.JPG": "/portfolio/static/media/OtoImport.4daa3ae2.JPG",
-    "static/media/SalesTools.69334b33.png": "/portfolio/static/media/SalesTools.69334b33.png",
-    "static/media/bensoft-api.18de6ddd.png": "/portfolio/static/media/bensoft-api.18de6ddd.png",
+    "static/media/OtoImport.a615187e.JPG": "/portfolio/static/media/OtoImport.a615187e.JPG",
+    "static/media/SalesTools.e80de6bf.png": "/portfolio/static/media/SalesTools.e80de6bf.png",
+    "static/media/bensoft-api.323fbde9.png": "/portfolio/static/media/bensoft-api.323fbde9.png",
     "static/media/bpl.852a6f05.png": "/portfolio/static/media/bpl.852a6f05.png",
     "static/media/developer.23e159be.jpg": "/portfolio/static/media/developer.23e159be.jpg",
     "static/media/otoLogic.5e54912f.JPG": "/portfolio/static/media/otoLogic.5e54912f.JPG",
@@ -28,6 +28,6 @@
     "static/css/2.80e5e0f4.chunk.css",
     "static/js/2.cbf7aa1d.chunk.js",
     "static/css/main.230b3446.chunk.css",
-    "static/js/main.653ca7d5.chunk.js"
+    "static/js/main.9f68b66b.chunk.js"
   ]
 }
