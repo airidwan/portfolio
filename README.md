@@ -6,7 +6,7 @@
 
 ## Built With
 
-My personal portfolio   <a href="https://ridwanwong.github.io/portfolio" target="_blank">https://ridwanwong.github.io/portfolio/</a>
+My personal portfolio   <a href="https://airidwan.github.io/portfolio" target="_blank">https://ridwanwong.github.io/portfolio/</a>
 
 This project was built using these technologies.
 
